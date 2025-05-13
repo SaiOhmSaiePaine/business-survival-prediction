@@ -5,7 +5,7 @@ This project predicts whether a newly registered business in Singapore will surv
 ## 📊 Dataset
 
 - **Source**: [ACRA Information on Corporate Entities – data.gov.sg](https://data.gov.sg)
-- **Compiled by**: [Lin Thant Soe Wai](https://www.kaggle.com/datasets/linnthantsoewai/acra-information-on-corporate-entities-2019-2025)
+- **Compiled by**: [Linn Thant Soe Wai](https://www.kaggle.com/datasets/linnthantsoewai/acra-information-on-corporate-entities-2019-2025)
 - **Time Coverage**: January 2019 – April 2024
 - **Scope**: Combined from 27 CSV files (A–Z), over 2 million registered business entities
 
