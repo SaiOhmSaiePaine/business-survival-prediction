@@ -87,7 +87,7 @@ To run this notebook:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/business-survival-prediction.git
+   git clone https://github.com/yourusername/business-survival-prediction](https://github.com/SaiOhmSaiePaine/business-survival-prediction.git
    cd business-survival-prediction
    ```
 
@@ -102,8 +102,9 @@ To run this notebook:
 
 ---
 
-## 📬 Contact
-
+## Author
+** Sai Ohm Saie Paine**  
+Data Science | Analytics | Singapore  
 📧 Email: saiohmsaiepaine@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/sai-ohm-saie-paine-43687b283](https://www.linkedin.com/in/sai-ohm-saie-paine-43687b283)
 
